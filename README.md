@@ -1,2 +1,2 @@
 # Projetos-Pessoais
-Projetos feitos para fins de testes 
+Projetos feitos para fins de testes.
