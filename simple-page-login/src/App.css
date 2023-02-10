@@ -5,7 +5,8 @@
   align-items: center;
   justify-content: center;
   color: white;
-  background-image: linear-gradient(70deg, #ffebee, #8c7373 30%, 	#9f6060);
+  /*background-image: linear-gradient(70deg, #ffebee, #8c7373 30%, 	black);*/
+  background-color: black;
 }
 
 .auth-form-container, .login-form, .register-form {
