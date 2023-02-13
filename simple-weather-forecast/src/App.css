@@ -1,0 +1,67 @@
+*{
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+}
+
+.search{
+  text-align: center;
+  padding:5%;
+}
+
+.search h2{
+  color:black;
+  padding:20px;
+}
+
+.search input{
+  text-align: center;
+}
+
+
+.search{
+  border-style: solid;
+  border-width: 100%;
+  border-color: #c7e7ee;
+  background-color: rgba(183, 220, 235, 0.932);
+}
+
+.search{
+  padding-top:2%;
+}
+
+.search input[type=text]{
+  width:40%;
+  height:40px;
+  padding-left: 10px;
+  border-radius: 5px;
+  border-color: #f89c9c;
+}
+.search input[type=submit]{
+  width:10%;
+  height: 40px;
+  cursor: pointer;
+  background-color: rgba(163, 112, 112, 0.932);
+  color:white;
+  border:0;
+  margin:10px 0;
+  font-weight: bold;
+  border-radius: 3px;
+}
+
+.containerCidade{
+  text-align: center;
+
+}
+
+.containerCidade p{
+  border-bottom:1px solid #bfebf4;
+  padding:10px 10px;
+  font-weight: bold;
+  border-width: 1px;
+}
+
+p{
+  text-align: center;
+  font-weight: bolder;
+}
